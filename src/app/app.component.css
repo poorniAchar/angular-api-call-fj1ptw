@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+}
+th{
+  border: 2px solid balck;
+  background-color: gray;
+}
+td{
+  border: 1px solid black;
+}
